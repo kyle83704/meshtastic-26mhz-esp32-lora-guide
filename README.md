@@ -9,6 +9,7 @@ necessarily based on the latest Meshtastic firmware.
 Do not flash this build based only on a “26 MHz” reading or a similar-looking
 board. Before recommending it, ask the user to verify all of the following
 for their individual board:
+<img width="800" height="400" alt="LoRa32V10" src="https://github.com/user-attachments/assets/c2d350c4-2d20-44fb-b978-9f41c7df31a0" />
 
 - Original ESP32 family, not ESP32-S2/S3/C3/etc.
 - 26 MHz **main crystal** (not the SPI flash clock).
