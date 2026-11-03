@@ -11,9 +11,12 @@ manufacturer-designated front or back has not been confirmed. Small component
 markings are not legible in this image.
 
 ![Single supplied face view of the reported T-LoRa32 V1 board specimen; component markings are not readable.](images/LoRa32V10.webp)
-(images/front.jpg)
-(images/back.jpg)
-(images/front&back.jpg)
+
+![Front view of the board specimen.](images/front.jpg)
+
+![Back view of the board specimen.](images/back.jpg)
+
+![Combined front and back view of the board specimen.](images/front&back.jpg)
 
 | Requested view | Status |
 |---|---|
